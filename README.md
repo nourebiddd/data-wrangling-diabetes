@@ -1,5 +1,8 @@
 # Diabetes Data Wrangling using Pandas
 
+![Python](https://img.shields.io/badge/Python-3-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-2.x-150458?logo=pandas&logoColor=white)
+
 Real-world data cleaning project demonstrating data wrangling skills using Python.
 
 ## Description
@@ -14,6 +17,16 @@ This project applies data wrangling techniques to a diabetes dataset with missin
 
 ## Dataset
 https://www.kaggle.com/datasets/bhavyamotiyani/diabetes-dataset-with-missing-value-for-practice
+
+## Output columns
+| Column | Meaning |
+|---|---|
+| Alter | Age |
+| Blutzucker | Plasma glucose (mg/dL) |
+| Blutzucker_Kategorie | Normal (< 140) · Erhöht (140–199) · Sehr hoch (≥ 200) |
+| BMI | Body-mass index |
+| Blutdruck | Diastolic blood pressure |
+| Diabetes | Ja / Nein |
 
 ## Tech Stack
 - Python
